@@ -1,6 +1,4 @@
-# Unifi
-Unifi Samples
-
+# Unifi Samples
 
 Unifi Controller Firewall Rules
 ```
